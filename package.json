@@ -1,5 +1,5 @@
 {
-  "name": "Tv Space",
+  "name": "~tv-space~",
   "version": "1.0.0",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -10,12 +10,8 @@
     "@sveltejs/adapter-vercel": "^1.0.0-next.26",
     "@sveltejs/kit": "next",
     "svelte": "^3.34.0",
-    "svelte-accessible-accordion": "^1.0.2"
   },
   "type": "module",
   "dependencies": {
-    "svelte-select": "^4.2.7",
-    "svelte-tabs": "^1.1.0",
-    "swiper": "^6.8.0"
   }
 }
