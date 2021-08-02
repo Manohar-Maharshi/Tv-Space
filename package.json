@@ -12,6 +12,4 @@
     "svelte": "^3.34.0",
   },
   "type": "module",
-  "dependencies": {
-  }
 }
